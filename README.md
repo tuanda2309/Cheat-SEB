@@ -11,7 +11,7 @@
 ## 🔹 **Bước 2: Cấu hình mạng cho máy ảo**
 
 * Sau khi tạo máy ảo xong, mở phần **Network settings** và cấu hình như hình minh họa dưới đây 👇
-* 
+  
 <img width="1920" height="1080" alt="Network" src="https://github.com/user-attachments/assets/ab8cb243-b879-4d19-a617-728f81173191" />
 
 > 💡 Mục tiêu: Đảm bảo máy ảo có thể **truy cập Internet ổn định** để tải file và cập nhật.
@@ -40,4 +40,4 @@
 * Restart máy ảo để cập nhật cấu hình.
 * Hoàn tất! 🎉
 
-👉Bây giờ bạn đã có thể chấp mọi bài thi có Safe Exam Browser 
+👉 Bây giờ bạn đã có thể chấp mọi bài thi có Safe Exam Browser 
