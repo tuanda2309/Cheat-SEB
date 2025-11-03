@@ -33,8 +33,6 @@
   ```
 * Lưu lại thay đổi.
 
----
-
 ## 🔹 **Bước 5: Khởi động lại máy ảo**
 
 * Restart máy ảo để cập nhật cấu hình.
