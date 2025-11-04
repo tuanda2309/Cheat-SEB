@@ -2,7 +2,7 @@
 
 ## 🔹 **Bước 1: Chuẩn bị máy ảo**
 
-* Tải và cài đặt phần mềm máy ảo (VMware hoặc VirtualBox đều được, QUAN TRỌNG: PHẢI NHỞ CÀI MÁY ẢO Ở ĐÂU).
+* Tải và cài đặt phần mềm máy ảo (VMware hoặc VirtualBox đều được, QUAN TRỌNG: PHẢI NHỚ CÀI MÁY ẢO Ở ĐÂU).
 * Tải về **file ISO** của hệ điều hành tùy ý (Windows 10/11,...).
 
 > ⚠️ Lưu ý: Chỉ cần hệ điều hành có **trình duyệt web (Google Chrome, Edge, v.v.)** để tải file từ GitHub này là được.
