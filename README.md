@@ -2,7 +2,7 @@
 
 ## 🔹 **Bước 1: Chuẩn bị máy ảo**
 
-* Tải và cài đặt phần mềm máy ảo (VMware hoặc VirtualBox đều được).
+* Tải và cài đặt phần mềm máy ảo (VMware hoặc VirtualBox đều được, QUAN TRỌNG: PHẢI NHỞ CÀI MÁY ẢO Ở ĐÂU).
 * Tải về **file ISO** của hệ điều hành tùy ý (Windows 10/11,...).
 
 > ⚠️ Lưu ý: Chỉ cần hệ điều hành có **trình duyệt web (Google Chrome, Edge, v.v.)** để tải file từ GitHub này là được.
@@ -25,11 +25,11 @@
 
 ## 🔹 **Bước 4: Chỉnh sửa file `.vmx`**
 
-* Mở file `.vmx` của máy ảo bằng trình soạn thảo (Notepad hoặc VS Code).
+* Mở file `.vmx` của máy ảo bằng trình soạn thảo (Notepad hoặc VS Code) trong thư mục đã cài MÁY ẢO Ở BƯỚC 1 (BƯỚC NÀY Ở MÁY THẬT).
 * Tìm dòng đường dẫn tới file ISO và **thay bằng đường dẫn ISO của bạn**, ví dụ:
 
   ```text
-  ide1:0.fileName = "D:\Win10_22H2_English_x64v1.iso"
+  ide1:0.fileName = "D:\Tuan\Win10_22H2_English_x64v1.iso"
   ```
 * Lưu lại thay đổi.
 
