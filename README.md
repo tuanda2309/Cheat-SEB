@@ -11,7 +11,7 @@
 * **IMPORTANT:** Remember where your VM is installed — especially the folder containing the `.vmx` file.  
 * Download an **ISO file** for your preferred OS (Windows 10/11, etc.).
 
-> 💡 Tip: You just need an OS with a **web browser (Chrome, Edge, etc.)** to download files from GitHub.
+> Tip: You just need an OS with a **web browser (Chrome, Edge, etc.)** to download files from GitHub.
 
 
 ## 🔹 Step 2: Configure Network Settings
@@ -56,7 +56,7 @@
 * Tải và cài đặt phần mềm máy ảo (VMware hoặc VirtualBox đều được, QUAN TRỌNG: PHẢI NHỚ CÀI MÁY ẢO Ở ĐÂU, Ở THƯ MỤC NÀO, ĐỂ DỄ TÌM FILE .VMX).
 * Tải về **file ISO** của hệ điều hành tùy ý (Windows 10/11,...).
 
-> ⚠️ Lưu ý: Chỉ cần hệ điều hành có **trình duyệt web (Google Chrome, Edge, v.v.)** để tải file từ GitHub này là được.
+> Lưu ý: Chỉ cần hệ điều hành có **trình duyệt web (Google Chrome, Edge, v.v.)** để tải file từ GitHub này là được.
 
 
 ## 🔹 **Bước 2: Cấu hình mạng cho máy ảo**
