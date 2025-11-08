@@ -1,3 +1,54 @@
+[English](#english) | [Tiếng Việt](#tiếng-việt)
+
+
+# English
+
+# Cheat Safe Exam Browser using Virtual Machine
+
+## 🔹 Step 1: Prepare a Virtual Machine
+
+* Download and install a virtual machine software (**VMware** or **VirtualBox**).  
+* **IMPORTANT:** Remember where your VM is installed — especially the folder containing the `.vmx` file.  
+* Download an **ISO file** for your preferred OS (Windows 10/11, etc.).
+
+> 💡 Tip: You just need an OS with a **web browser (Chrome, Edge, etc.)** to download files from GitHub.
+
+
+## 🔹 Step 2: Configure Network Settings
+
+* After creating the VM, open **Network Settings** and configure as shown below 👇  
+
+<img width="1920" height="1080" alt="Network" src="https://github.com/user-attachments/assets/ab8cb243-b879-4d19-a617-728f81173191" />
+
+>💡Goal: Ensure the virtual machine has **stable Internet access** for downloading and updating files.
+
+
+## 🔹 Step 3: Extract and Install Safe Exam Browser
+
+* Extract the folder you downloaded in **Step 2**.  
+* Inside that folder, run the **Safe Exam Browser installer** and follow the setup instructions.
+
+
+## 🔹 Step 4: Edit the `.vmx` File
+
+* Open your VM’s `.vmx` file using **Notepad** or **VS Code** (on the **host machine**, not the VM).  
+* Locate the line pointing to your ISO file and replace it with your correct path, for example:
+
+  ```text
+  ide1:0.fileName = "D:\Tuan\Win10_22H2_English_x64v1.iso"
+  ```
+
+* Save changes.
+
+## 🔹 **Step 5: Restart the virtual machine**
+
+* Restart the virtual machine to update the configuration.
+* Done! 🎉
+
+👉 You can now accept any exam with Safe Exam Browser
+
+# Tiếng Việt
+
 # Cheat Safe Exam Browser bằng máy ảo 👇
 
 ## 🔹 **Bước 1: Chuẩn bị máy ảo**
